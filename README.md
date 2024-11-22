@@ -1,0 +1,3 @@
+# The Global Education Puzzle: Unpacking Out-of-School Rates and Pandemic Disruptions
+The level of education students are able to obtain varies greatly around the world. We plan to explore how out-of-school rates compare between countries around the globe, including gender differences in out-of-school rates. Further, we are interested in the effect that the Covid-19 pandemic had on students’ educational outcomes, as many students had trouble continuing their education during this time. We hope this project brings light to the educational inequities that were exacerbated by the Covid-19 pandemic. We will use different methodologies from class to compare a variety of facets of our data, hoping to draw interesting conclusions visually. 
+# Understanding-Global-Education
